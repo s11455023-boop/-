@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>記帳小幫手</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* 隱藏外層捲軸 */
+        }
+        iframe {
+            width: 100%;
+            height: 100vh; /* 佔滿視窗高度 */
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://script.google.com/macros/s/AKfycbz9iKqn8WjBy6rCJ2hhn-oeJSKSyXTaGFHlvuQMEnz64Y4pdOdWqZg6cmcyTk3fEhYLmg/exec
+"></iframe>
+</body>
+</html>
